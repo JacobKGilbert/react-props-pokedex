@@ -1,3 +1,4 @@
+import React from 'react'
 import './Pokecard.css'
 
 const Pokecard = ({ id, name, type, exp }) => {

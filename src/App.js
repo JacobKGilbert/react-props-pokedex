@@ -1,3 +1,4 @@
+import React from 'react'
 import Pokedex from './Pokedex'
 import './App.css';
 
